@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
-<h3 align="center">A passionate frontend developer from India Currenty Pursuing B Tech 2nd Year from PIET Jaipur. Currenty workin on Back-end Devlopment</h3>
+<h3 align="center">A passionate frontend developer from India Currenty Pursuing B Tech 2nd Year from PIET Jaipur. Currenty working on Back-end Devlopment</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
