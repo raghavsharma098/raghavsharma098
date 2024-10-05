@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma098&" alt="raghavsharma098" /></p>
 
+[![An image of @raghavsharma098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavsharma098)](https://holopin.io/@raghavsharma098)
+
 
 <!--
 **raghavsharma098/raghavsharma098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
