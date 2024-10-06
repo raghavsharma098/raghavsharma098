@@ -43,7 +43,8 @@
 
 <h2>Postman Student Expert</h2>
   
-![Postman - Postman API Fundamentals Student Expert - 2024-10-06](https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2)
+![Postman - Postman API Fundamentals Student Expert - 2024-10-06](https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2 =100x100)
+
 
 
 <!--
