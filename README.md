@@ -41,7 +41,7 @@
 
 [![An image of @raghavsharma098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavsharma098)](https://holopin.io/@raghavsharma098)
 
-<h2>Postman Student Expert</h2>
+<h2>Postman Student Expert:</h2>
   
 <img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/>
 
