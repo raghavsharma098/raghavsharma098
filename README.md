@@ -11,7 +11,7 @@
 - 💬 Ask me about **Front-end,Back-end**
 
 - 📫 How to reach me **raghavrock098@gmail.com**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghav_sharma34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_sharma34" height="30" width="40" /></a>
@@ -24,7 +24,8 @@
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/raghavsharma098"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raghavsharma098" /></a></p><br><br>
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <h2>#GitHub Stats 📊:</h2>
 
 <p align="center">
@@ -45,7 +46,6 @@
 <h2>Postman Student Expert:</h2>
   
 <img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/>
-
 
 
 
