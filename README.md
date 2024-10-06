@@ -41,6 +41,10 @@
 
 [![An image of @raghavsharma098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavsharma098)](https://holopin.io/@raghavsharma098)
 
+<h2>Postman Student Expert</h2>
+
+![Postman - Postman API Fundamentals Student Expert - 2024-10-06](https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2)
+
 
 <!--
 **raghavsharma098/raghavsharma098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
