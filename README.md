@@ -52,8 +52,6 @@
 <h2>Postman Student Expert:</h2>
   
 <img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/><br> 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
   
 <h2>Google Badges:</h2>
 
