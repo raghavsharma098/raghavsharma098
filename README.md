@@ -54,7 +54,9 @@
 <img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/><br> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+  
 <h2>Google Badges:</h2>
+
 [![Google Arcade 2024](https://img.shields.io/badge/Google_Arcade_2024-blue?style=for-the-badge&logo=google)](https://www.cloudskillsboost.google/public_profiles/e1ffc1e4-70a6-421c-a729-86687d148c82)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[![Google Developer Program](https://img.shields.io/badge/Google_Developer_Program-green?style=for-the-badge&logo=google)](https://g.dev/raghav098)
 
 
