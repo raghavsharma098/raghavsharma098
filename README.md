@@ -1,7 +1,7 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/2aabe3ad-c9c5-48e4-becd-352c105d0f67)
 
 <h1 align="center">Hi 👋, I'm Raghav Sharma</h1>
-<h3 align="center">A passionate frontend developer from India Currenty Pursuing B Tech 2nd Year from PIET Jaipur. Currenty working on Back-end Devlopment</h3>
+<h3 align="center">A passionate frontend developer from India Currently Pursuing B Tech 2nd Year from PIET Jaipur. Currenty working on Back-end Devlopment</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
