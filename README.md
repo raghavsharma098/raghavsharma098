@@ -43,6 +43,14 @@
 
 [![An image of @raghavsharma098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavsharma098)](https://holopin.io/@raghavsharma098)
 
+<h2>#Open Odyssey 1.0-2024:</h2>
+
+<a href="https://credsverse.com/credentials/66b68f34-2840-4d42-bc77-5dc5dbc54a40">
+    <img src="https://github.com/user-attachments/assets/18e06fc3-8915-4253-9b81-a13b0f77385a" width="100">
+</a>
+
+
+
 <h2>GSSOC(24) Badges 🪶</h2>
 
 <img src="https://github.com/user-attachments/assets/96868c30-8c75-4917-a895-d1482eaf1721" alt="Image 6" width="100" /><img src="https://github.com/user-attachments/assets/bce9f02c-88ab-4ae7-b788-1695c8ebf55b" alt="Image 7" width="100" /><img src="https://github.com/user-attachments/assets/c4d7592f-cb8f-4f93-a495-278242fa8faa" alt="Image 8" width="100" /><img src="https://github.com/user-attachments/assets/330d5635-5b4c-48d0-be13-8a645a468315" alt="Image 1" width="100" /><img src="https://github.com/user-attachments/assets/e4e576a8-750c-4662-9096-9f0988b06765" alt="Image 2" width="100" /><img src="https://github.com/user-attachments/assets/a6723f1d-9e68-45b7-b990-08a128cba6d4" alt="Image 3" width="100" /><img src="https://github.com/user-attachments/assets/6723efc1-2d80-44d4-b498-e11f38cfa7e2" alt="Image 4" width="100" /><img src="https://github.com/user-attachments/assets/f03aa395-650a-46b3-ab57-86ad9dd531a5" alt="Image 5" width="100" />
