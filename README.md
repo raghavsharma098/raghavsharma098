@@ -58,9 +58,9 @@
 
 
 <h2>Postman Student Expert:</h2>
-  
-<img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/><br> 
-  
+<a href ="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FaImTi_kOSuWj_EwkDbw8BA">  
+    <img src="https://github.com/user-attachments/assets/d3784a31-ba00-4b05-8fb5-87dc0c19ddd2" alt="Postman - Postman API Fundamentals Student Expert - 2024-10-06" width="100"/><br> 
+</a>
 <h2>Google Badges:</h2>
 
 [![Google Arcade 2024](https://img.shields.io/badge/Google_Arcade_2024-blue?style=for-the-badge&logo=google)](https://www.cloudskillsboost.google/public_profiles/e1ffc1e4-70a6-421c-a729-86687d148c82)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[![Google Developer Program](https://img.shields.io/badge/Google_Developer_Program-green?style=for-the-badge&logo=google)](https://g.dev/raghav098)
