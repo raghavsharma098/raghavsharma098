@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript,Node,React**
+- 🌱 I’m currently learning **Backend Devlopment**
 
 - 💬 Ask me about **Front-end,Back-end**
 
