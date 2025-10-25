@@ -36,7 +36,7 @@
   </a>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=raghavsharma098&theme=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="raghavsharma github-readme-streak-stats">
   </a>
-<h2>#Hacktoberfest-2024(Completed):</h2>
+<h2>#Hacktoberfest-2024&2025(Completed):</h2>
 
 [![An image of @raghavsharma098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghavsharma098)](https://holopin.io/@raghavsharma098)
 
