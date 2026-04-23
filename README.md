@@ -81,9 +81,7 @@
 
 <h2>#GitHub Stats 📊:</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsharma098&theme=white&layout=compact"width="48%"/> 
-</p>  
+  
 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=raghavsharma098&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@raghavsharma github-readme-stats">
