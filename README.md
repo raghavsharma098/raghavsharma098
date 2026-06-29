@@ -114,13 +114,30 @@
 
 [![Google Arcade 2024](https://img.shields.io/badge/Google_Arcade_2024-blue?style=for-the-badge&logo=google)](https://www.cloudskillsboost.google/public_profiles/e1ffc1e4-70a6-421c-a729-86687d148c82)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>[![Google Developer Program](https://img.shields.io/badge/Google_Developer_Program-green?style=for-the-badge&logo=google)](https://g.dev/raghav098)
 
-<h2>Github Journey:</h2>
+## 🎮 GitHub Journey
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghavsharma098/raghavsharma098/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghavsharma098/raghavsharma098/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/raghavsharma098/raghavsharma098/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pacman Contribution Graph"
+      src="https://raw.githubusercontent.com/iamkunal9/iamkunal9/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Animated Divider"
+    width="100%"
+  />
+</p>
